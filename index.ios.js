@@ -43,6 +43,7 @@ var RNMeituan = React.createClass({
           selected = { this.state.selectedTab === 'home'}>
           <NavigatorIOS
             style={styles.container}
+            
             initialRoute={{
             title: '首页',
             component: Home,

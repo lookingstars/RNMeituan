@@ -35,3 +35,5 @@ npm i react-timer-mixin --save
 
 ![image](https://github.com/lookingstars/RNMeituan/blob/master/screenshots/2.png)  
 
+![image](https://github.com/lookingstars/RNMeituan/blob/master/screenshots/3.png)  
+

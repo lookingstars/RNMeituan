@@ -24,6 +24,7 @@ var JZMenuCard = require('./components/JZMenuCard');
 var JZRushCell = require('./components/JZRushCell');
 var JZWebView = require('./components/JZWebView');
 var JZDiscount = require('./components/JZDiscount');
+var JZDisWebView = require('./components/JZDisWebView');
 
 var Home = React.createClass({
 	//初始化
@@ -57,7 +58,18 @@ var Home = React.createClass({
   			//android对应的处理
   		}
   	},
-
+  	selectDiscount:function(url){
+  		console.log('dis _' + url);
+  		if (Platform.OS === 'ios') {
+  			this.props.navigator.push({
+  				title:'限时抢购',
+  				component:JZDisWebView,
+  				passProps:{url},
+  			});
+  		}else{
+  			//android对应的处理
+  		}
+  	},
 	render(){
 		return (
 			<View style = {styles.container}>
@@ -70,7 +82,9 @@ var Home = React.createClass({
 						onSelect = {() => this.selectRush()}
 					/>
 					<View style={{height : 4, backgroundColor : '#F2F2F2'}} />
-					<JZDiscount />
+					<JZDiscount 		
+						onSelect1 = {(a) => this.selectDiscount(a)}
+					/>
 					<View style={{height : 4, backgroundColor : '#F2F2F2'}} />
 					<JZListView
 						onSelect = {() => this.selectShop('')}

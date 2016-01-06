@@ -16,6 +16,7 @@ var {
   StyleSheet,
   Text,
   View,
+  TouchableHighlight,
 } = React;
 
 
@@ -76,12 +77,19 @@ var JZDiscount = React.createClass({
         return (url);
       }
   },
+  test:function(data){    
+    this.props.onSelect1(data)
+  },
   renderItem:function(data){
     var weakself = this;
     var group = data.map(function(item,i){
       var imgurl = weakself.getImage(item.imageurl);
-      return (
-          <View key = {i} style = {styles.item}>
+      var weburl = item.share.url;
+      return (   
+      <TouchableHighlight key = {i} 
+        style = {styles.touch} 
+        onPress = {() => weakself.test(weburl)}>       
+          <View style = {styles.item}>
             <View style = {styles.title}>
               <Text>
                 {item.maintitle}
@@ -94,7 +102,9 @@ var JZDiscount = React.createClass({
               style = {styles.itemImg}  
               source = {{uri : imgurl}}
             />
-          </View>
+          </View>        
+
+      </TouchableHighlight>    
         );
     });
 
@@ -129,7 +139,7 @@ var JZDiscount = React.createClass({
 
 var styles = StyleSheet.create({
   container:{
-    backgroundColor:'#ffffff',    
+    backgroundColor:'fff',    
   },
   row:{
     flexDirection:'row',
@@ -151,6 +161,10 @@ var styles = StyleSheet.create({
     width:50,
     height:50,
     marginTop:5,
+  },
+  touch:{
+    flex:1,
+    backgroundColor:'white',
   },
 });
 
