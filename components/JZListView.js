@@ -158,7 +158,7 @@ var JZListView = React.createClass({
 				ref = "listview"
 				renderSeparator = {this.renderSeparator}
 				dataSource={this.state.dataSource}
-				
+
         		renderRow={this.renderRow}
 
         		automaticallyAdjustContentInsets={true}
@@ -169,7 +169,7 @@ var JZListView = React.createClass({
 
 
 		return (
-		    <View style = {styles.container}> 
+		    <View style = {styles.container}>
 		    	<View style = {styles.separator} />
 		    		{content}
 		    </View>
@@ -223,5 +223,3 @@ var styles = StyleSheet.create({
 });
 
 module.exports = JZListView;
-
-

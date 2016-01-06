@@ -48,7 +48,7 @@ var RNMeituan = React.createClass({
             component: Home,
             rightButtonIcon: require('image!icon_tabbar_onsite'),
             }}
-          />          
+          />
         </TabBarIOS.Item>
 
         <TabBarIOS.Item

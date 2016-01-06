@@ -41,7 +41,7 @@ var RecommendCell = React.createClass({
 					onShowUnderlay = {this.props.onHighlight}
 					onHideUnderlay = {this.props.onUnhighlight}>
 					<View style = {styles.row}>
-						<Image 
+						<Image
 							source = {getImageSource(this.props.shopData, 'imgurl')}
 							style = {styles.cellImage}
 						/>

@@ -49,7 +49,7 @@ var JZRushCell = React.createClass({
   		fetch(rush_url)
   			.then((response) => response.json())
   			.catch((error) =>{
-  				resultsCache.rush_url = undefined;
+  				resultsCache.rushData = undefined;
 
   				this.setState({
   					isLoading:false,
@@ -63,7 +63,7 @@ var JZRushCell = React.createClass({
   						isLoading:false,
   						dataSource:resultsCache.rushData,
   					});
-  				};  				
+  				};
   			})
   			.done();
 
@@ -78,14 +78,14 @@ var JZRushCell = React.createClass({
   			return (url);
   		}
   	},
-  	renderItems(data){  	
+  	renderItems(data){
   		if (data) {
   			var weakself = this;
   			return data.map(function(items,i){
   				var imgurl = weakself.getImage(items.mdcLogoUrl);
   				return (
   					<View key={i} style = {styles.boxtd}>
-						<Image source={{uri : imgurl}} style={styles.cardImg} />						
+						<Image source={{uri : imgurl}} style={styles.cardImg} />
 						<Text style = {styles.cardText}>
 							{items.price}元
 						</Text>
@@ -98,7 +98,7 @@ var JZRushCell = React.createClass({
   					吃肉都不开心的话，还不如吃酸菜。
   				</Text>
   			)
-  		}  		
+  		}
   	},
 
 	render:function(){
@@ -107,7 +107,7 @@ var JZRushCell = React.createClass({
 				<View>
 					<Text>
 						空数据
-					</Text>					
+					</Text>
 				</View>
 			)
 		}else{
@@ -119,11 +119,11 @@ var JZRushCell = React.createClass({
 					</Text>
 					<View style = {styles.boxtr}>
 						{this.renderItems(this.state.dataSource)}
-					</View>			
+					</View>
 				</View>
 				</TouchableHighlight>
 			)
-		}		
+		}
 	},
 });
 
@@ -138,7 +138,7 @@ var styles = StyleSheet.create({
 		paddingTop: 10,
         paddingBottom : 10,
         paddingLeft : 5,
-        paddingRight: 5,        
+        paddingRight: 5,
 	},
 	boxtd:{
 		flex:1,
@@ -149,7 +149,7 @@ var styles = StyleSheet.create({
 	},
 	cardImg:{
 		width: 80,
-		height: 40,		
+		height: 40,
 	},
 	cardText:{
 		color:'#000',

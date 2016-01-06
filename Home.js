@@ -23,6 +23,7 @@ var JZListView = require('./components/JZListView');
 var JZMenuCard = require('./components/JZMenuCard');
 var JZRushCell = require('./components/JZRushCell');
 var JZWebView = require('./components/JZWebView');
+var JZDiscount = require('./components/JZDiscount');
 
 var Home = React.createClass({
 	//初始化
@@ -54,7 +55,7 @@ var Home = React.createClass({
   			});
   		}else{
   			//android对应的处理
-  		}	
+  		}
   	},
 
 	render(){
@@ -65,11 +66,13 @@ var Home = React.createClass({
 					<View style={{height : 4, backgroundColor : '#F2F2F2'}} />
 					<JZMenuCard />
 					<View style={{height : 4, backgroundColor : '#F2F2F2'}} />
-					<JZRushCell 
+					<JZRushCell
 						onSelect = {() => this.selectRush()}
 					/>
 					<View style={{height : 4, backgroundColor : '#F2F2F2'}} />
-					<JZListView 
+					<JZDiscount />
+					<View style={{height : 4, backgroundColor : '#F2F2F2'}} />
+					<JZListView
 						onSelect = {() => this.selectShop('')}
 					/>
 				</ScrollView>
