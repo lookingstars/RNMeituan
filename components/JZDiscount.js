@@ -136,17 +136,21 @@ var styles = StyleSheet.create({
   },
   item:{
     flex:1,    
-    flexDirection:'row',
-    marginTop:5,
+    flexDirection:'row',    
+    borderBottomColor: 'rgba( 0, 0, 0, 0.1 )',
+    borderBottomWidth: 1,
+    borderRightColor: 'rgba( 0, 0, 0, 0.1 )',
+    borderRightWidth: 1,
   },
   title:{
     flex:1,
     alignItems:'center',
+    marginTop:10,
   },
   itemImg:{
     width:50,
     height:50,
-
+    marginTop:5,
   },
 });
 
