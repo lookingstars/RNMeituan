@@ -2,9 +2,6 @@
  * Sample React Native App
  * https://github.com/facebook/react-native
  *
- * QQ:863784757
- * QQ群:112365317
- * Copyright (c) 2015年 jinzelu. All rights reserved.
  * 愁眉弯唇皆是为你从此眉间心上再无一人
  */
 'use strict'
