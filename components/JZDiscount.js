@@ -111,7 +111,7 @@ var JZDiscount = React.createClass({
           {group.slice(0,2)}
         </View>
         <View style = {styles.row}>
-          {group.slice(2)}
+          {group.slice(2,4)}
         </View>
       </View>
     )
