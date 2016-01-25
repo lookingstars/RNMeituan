@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b3248f8-2a91-45ac-bbeb-a9e166cae3ea" name="Default" comment="" />
+    <ignored path="RNMeituan.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="RNMeituan" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Home.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Home.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.39889959" vertical-offset="205" max-vertical-offset="1620">
+              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+              <folding>
+                <marker date="1452153407000" expanded="true" signature="0:103" placeholder="/** Sample React Native App ...*/" />
+                <marker date="1452153407000" expanded="true" signature="625:2025" placeholder="{...}" />
+                <marker date="1452153407000" expanded="true" signature="652:681" placeholder="{...}" />
+                <marker date="1452153407000" expanded="true" signature="663:677" placeholder="{...}" />
+                <marker date="1452153407000" expanded="true" signature="733:926" placeholder="{...}" />
+                <marker date="1452153407000" expanded="true" signature="766:890" placeholder="{...}" />
+                <marker date="1452153407000" expanded="true" signature="799:882" placeholder="{&quot;title&quot;: '限时抢购'...}" />
+                <marker date="1452153407000" expanded="true" signature="894:921" placeholder="{...}" />
+                <marker date="1452153407000" expanded="true" signature="953:1138" placeholder="{...}" />
+                <marker date="1452153407000" expanded="true" signature="986:1102" placeholder="{...}" />
+                <marker date="1452153407000" expanded="true" signature="1019:1094" placeholder="{&quot;title&quot;: '限时抢购'...}" />
+                <marker date="1452153407000" expanded="true" signature="1106:1133" placeholder="{...}" />
+                <marker date="1452153407000" expanded="true" signature="1171:1394" placeholder="{...}" />
+                <marker date="1452153407000" expanded="true" signature="1236:1358" placeholder="{...}" />
+                <marker date="1452153407000" expanded="true" signature="1269:1350" placeholder="{&quot;title&quot;: '限时抢购'...}" />
+                <marker date="1452153407000" expanded="true" signature="1362:1389" placeholder="{...}" />
+                <marker date="1452153407000" expanded="true" signature="1405:2022" placeholder="{...}" />
+                <marker date="1452153407000" expanded="true" signature="1421:2014" placeholder="&lt;xml/&gt;" />
+                <marker date="1452153407000" expanded="true" signature="1459:2003" placeholder="&lt;xml/&gt;" />
+                <marker date="1452153407000" expanded="true" signature="1647:1709" placeholder="&lt;xml/&gt;" />
+                <marker date="1452153407000" expanded="true" signature="1779:1851" placeholder="&lt;xml/&gt;" />
+                <marker date="1452153407000" expanded="true" signature="1921:1985" placeholder="&lt;xml/&gt;" />
+                <marker date="1452153407000" expanded="true" signature="2060:2122" placeholder="{...}" />
+                <marker date="1452153407000" expanded="true" signature="2073:2119" placeholder="{&quot;flex&quot;: 1...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getImageSource.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/getImageSource.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1451469128000" expanded="true" signature="0:637" placeholder="/** The examples provided by Facebook are for non-commercial testing and ...*/" />
+                <marker date="1451469128000" expanded="true" signature="726:877" placeholder="{...}" />
+                <marker date="1451469128000" expanded="true" signature="813:857" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CloverSlider.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/CloverSlider.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2985">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1452153455000" expanded="true" signature="0:64" placeholder="/*...*/" />
+                <marker date="1452153455000" expanded="true" signature="419:488" placeholder="//..." />
+                <marker date="1452153455000" expanded="true" signature="511:585" placeholder="{...}" />
+                <marker date="1452153455000" expanded="true" signature="608:695" placeholder="{...}" />
+                <marker date="1452153455000" expanded="true" signature="728:941" placeholder="{...}" />
+                <marker date="1452153455000" expanded="true" signature="745:768" placeholder="{&quot;flex&quot;: 1...}" />
+                <marker date="1452153455000" expanded="true" signature="790:939" placeholder="{&quot;position&quot;: 'absolute'...}" />
+                <marker date="1452153455000" expanded="true" signature="981:4816" placeholder="{...}" />
+                <marker date="1452153455000" expanded="true" signature="1043:1298" placeholder="{...}" />
+                <marker date="1452153455000" expanded="true" signature="1060:1292" placeholder="{&quot;indicatorColor&quot;: '#ffffff'...}" />
+                <marker date="1452153455000" expanded="true" signature="1341:1455" placeholder="{...}" />
+                <marker date="1452153455000" expanded="true" signature="1358:1449" placeholder="{&quot;currentX&quot;: 0...}" />
+                <marker date="1452153455000" expanded="true" signature="1494:1818" placeholder="{...}" />
+                <marker date="1452153455000" expanded="true" signature="1632:1745" placeholder="{...}" />
+                <marker date="1452153455000" expanded="true" signature="1662:1731" placeholder="{...}" />
+                <marker date="1452153455000" expanded="true" signature="1773:1810" placeholder="{...}" />
+                <marker date="1452153455000" expanded="true" signature="1832:2467" placeholder="{...}" />
+                <marker date="1452153455000" expanded="true" signature="1982:2442" placeholder="{...}" />
+                <marker date="1452153455000" expanded="true" signature="2069:2116" placeholder="{...}" />
+                <marker date="1452153455000" expanded="true" signature="2120:2191" placeholder="{...}" />
+                <marker date="1452153455000" expanded="true" signature="2339:2429" placeholder="{...}" />
+                <marker date="1452153455000" expanded="true" signature="2494:2527" placeholder="{...}" />
+                <marker date="1452153455000" expanded="true" signature="2580:2627" placeholder="{...}" />
+                <marker date="1452153455000" expanded="true" signature="2649:2657" placeholder="{...}" />
+                <marker date="1452153455000" expanded="true" signature="2694:2945" placeholder="{...}" />
+                <marker date="1452153455000" expanded="true" signature="2838:2886" placeholder="{...}" />
+                <marker date="1452153455000" expanded="true" signature="2890:2939" placeholder="{...}" />
+                <marker date="1452153455000" expanded="true" signature="2982:3269" placeholder="{...}" />
+                <marker date="1452153455000" expanded="true" signature="3053:3262" placeholder="{...}" />
+                <marker date="1452153455000" expanded="true" signature="3285:4017" placeholder="{...}" />
+                <marker date="1452153455000" expanded="true" signature="3357:3996" placeholder="&lt;xml/&gt;" />
+                <marker date="1452153455000" expanded="true" signature="3405:3931" placeholder="&lt;xml/&gt;" />
+                <marker date="1452153455000" expanded="true" signature="4046:4545" placeholder="{...}" />
+                <marker date="1452153455000" expanded="true" signature="4157:4418" placeholder="{...}" />
+                <marker date="1452153455000" expanded="true" signature="4449:4529" placeholder="&lt;xml/&gt;" />
+                <marker date="1452153455000" expanded="true" signature="4570:4814" placeholder="{...}" />
+                <marker date="1452153455000" expanded="true" signature="4707:4806" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="824" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RNMeituan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RNMeituan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RNMeituan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RNMeituan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RNMeituan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="Settings.JavaScript" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="JavaScriptLanguageLevel" value="ES5" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b3248f8-2a91-45ac-bbeb-a9e166cae3ea" name="Default" comment="" />
+      <created>1453187798469</created>
+      <option name="number" value="Default" />
+      <updated>1453187798469</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="824" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/components/getImageSource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="727">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1451469128000" expanded="true" signature="0:637" placeholder="/** The examples provided by Facebook are for non-commercial testing and ...*/" />
+            <marker date="1451469128000" expanded="true" signature="726:877" placeholder="{...}" />
+            <marker date="1451469128000" expanded="true" signature="813:857" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/CloverSlider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2985">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1452153455000" expanded="true" signature="0:64" placeholder="/*...*/" />
+            <marker date="1452153455000" expanded="true" signature="419:488" placeholder="//..." />
+            <marker date="1452153455000" expanded="true" signature="511:585" placeholder="{...}" />
+            <marker date="1452153455000" expanded="true" signature="608:695" placeholder="{...}" />
+            <marker date="1452153455000" expanded="true" signature="728:941" placeholder="{...}" />
+            <marker date="1452153455000" expanded="true" signature="745:768" placeholder="{&quot;flex&quot;: 1...}" />
+            <marker date="1452153455000" expanded="true" signature="790:939" placeholder="{&quot;position&quot;: 'absolute'...}" />
+            <marker date="1452153455000" expanded="true" signature="981:4816" placeholder="{...}" />
+            <marker date="1452153455000" expanded="true" signature="1043:1298" placeholder="{...}" />
+            <marker date="1452153455000" expanded="true" signature="1060:1292" placeholder="{&quot;indicatorColor&quot;: '#ffffff'...}" />
+            <marker date="1452153455000" expanded="true" signature="1341:1455" placeholder="{...}" />
+            <marker date="1452153455000" expanded="true" signature="1358:1449" placeholder="{&quot;currentX&quot;: 0...}" />
+            <marker date="1452153455000" expanded="true" signature="1494:1818" placeholder="{...}" />
+            <marker date="1452153455000" expanded="true" signature="1632:1745" placeholder="{...}" />
+            <marker date="1452153455000" expanded="true" signature="1662:1731" placeholder="{...}" />
+            <marker date="1452153455000" expanded="true" signature="1773:1810" placeholder="{...}" />
+            <marker date="1452153455000" expanded="true" signature="1832:2467" placeholder="{...}" />
+            <marker date="1452153455000" expanded="true" signature="1982:2442" placeholder="{...}" />
+            <marker date="1452153455000" expanded="true" signature="2069:2116" placeholder="{...}" />
+            <marker date="1452153455000" expanded="true" signature="2120:2191" placeholder="{...}" />
+            <marker date="1452153455000" expanded="true" signature="2339:2429" placeholder="{...}" />
+            <marker date="1452153455000" expanded="true" signature="2494:2527" placeholder="{...}" />
+            <marker date="1452153455000" expanded="true" signature="2580:2627" placeholder="{...}" />
+            <marker date="1452153455000" expanded="true" signature="2649:2657" placeholder="{...}" />
+            <marker date="1452153455000" expanded="true" signature="2694:2945" placeholder="{...}" />
+            <marker date="1452153455000" expanded="true" signature="2838:2886" placeholder="{...}" />
+            <marker date="1452153455000" expanded="true" signature="2890:2939" placeholder="{...}" />
+            <marker date="1452153455000" expanded="true" signature="2982:3269" placeholder="{...}" />
+            <marker date="1452153455000" expanded="true" signature="3053:3262" placeholder="{...}" />
+            <marker date="1452153455000" expanded="true" signature="3285:4017" placeholder="{...}" />
+            <marker date="1452153455000" expanded="true" signature="3357:3996" placeholder="&lt;xml/&gt;" />
+            <marker date="1452153455000" expanded="true" signature="3405:3931" placeholder="&lt;xml/&gt;" />
+            <marker date="1452153455000" expanded="true" signature="4046:4545" placeholder="{...}" />
+            <marker date="1452153455000" expanded="true" signature="4157:4418" placeholder="{...}" />
+            <marker date="1452153455000" expanded="true" signature="4449:4529" placeholder="&lt;xml/&gt;" />
+            <marker date="1452153455000" expanded="true" signature="4570:4814" placeholder="{...}" />
+            <marker date="1452153455000" expanded="true" signature="4707:4806" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/JZListView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4429161" vertical-offset="233" max-vertical-offset="3420">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding>
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="/** Sample React Native App ...*/" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{&quot;isLoading&quot;: false...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{&quot;isLoading&quot;: true...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{&quot;isLoading&quot;: false...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{&quot;isLoading&quot;: false...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{&quot;title&quot;: '限时抢购'...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="&lt;xml/&gt;" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="&lt;xml/&gt;" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="&lt;xml/&gt;" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="&lt;xml/&gt;" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="&lt;xml/&gt;" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="&lt;xml/&gt;" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{&quot;flex&quot;: 1...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{&quot;alignItems&quot;: 'center'...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{&quot;height&quot;: 1...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{&quot;backgroundColor&quot;: 'rgba(0,0,0,0.1)'...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{&quot;opacity&quot;: 0.0...}" />
+            <marker date="1452153438000" expanded="true" signature="-1:-1" placeholder="{&quot;marginTop&quot;: 80...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39889959" vertical-offset="205" max-vertical-offset="1620">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+          <folding>
+            <marker date="1452153407000" expanded="true" signature="0:103" placeholder="/** Sample React Native App ...*/" />
+            <marker date="1452153407000" expanded="true" signature="625:2025" placeholder="{...}" />
+            <marker date="1452153407000" expanded="true" signature="652:681" placeholder="{...}" />
+            <marker date="1452153407000" expanded="true" signature="663:677" placeholder="{...}" />
+            <marker date="1452153407000" expanded="true" signature="733:926" placeholder="{...}" />
+            <marker date="1452153407000" expanded="true" signature="766:890" placeholder="{...}" />
+            <marker date="1452153407000" expanded="true" signature="799:882" placeholder="{&quot;title&quot;: '限时抢购'...}" />
+            <marker date="1452153407000" expanded="true" signature="894:921" placeholder="{...}" />
+            <marker date="1452153407000" expanded="true" signature="953:1138" placeholder="{...}" />
+            <marker date="1452153407000" expanded="true" signature="986:1102" placeholder="{...}" />
+            <marker date="1452153407000" expanded="true" signature="1019:1094" placeholder="{&quot;title&quot;: '限时抢购'...}" />
+            <marker date="1452153407000" expanded="true" signature="1106:1133" placeholder="{...}" />
+            <marker date="1452153407000" expanded="true" signature="1171:1394" placeholder="{...}" />
+            <marker date="1452153407000" expanded="true" signature="1236:1358" placeholder="{...}" />
+            <marker date="1452153407000" expanded="true" signature="1269:1350" placeholder="{&quot;title&quot;: '限时抢购'...}" />
+            <marker date="1452153407000" expanded="true" signature="1362:1389" placeholder="{...}" />
+            <marker date="1452153407000" expanded="true" signature="1405:2022" placeholder="{...}" />
+            <marker date="1452153407000" expanded="true" signature="1421:2014" placeholder="&lt;xml/&gt;" />
+            <marker date="1452153407000" expanded="true" signature="1459:2003" placeholder="&lt;xml/&gt;" />
+            <marker date="1452153407000" expanded="true" signature="1647:1709" placeholder="&lt;xml/&gt;" />
+            <marker date="1452153407000" expanded="true" signature="1779:1851" placeholder="&lt;xml/&gt;" />
+            <marker date="1452153407000" expanded="true" signature="1921:1985" placeholder="&lt;xml/&gt;" />
+            <marker date="1452153407000" expanded="true" signature="2060:2122" placeholder="{...}" />
+            <marker date="1452153407000" expanded="true" signature="2073:2119" placeholder="{&quot;flex&quot;: 1...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
